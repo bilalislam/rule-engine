@@ -1,0 +1,14 @@
+/Users/ninjafx/Dev/expression-evaluator/rule-engine/src/bin/Debug/netcoreapp2.2/src.deps.json
+/Users/ninjafx/Dev/expression-evaluator/rule-engine/src/bin/Debug/netcoreapp2.2/src.runtimeconfig.json
+/Users/ninjafx/Dev/expression-evaluator/rule-engine/src/bin/Debug/netcoreapp2.2/src.runtimeconfig.dev.json
+/Users/ninjafx/Dev/expression-evaluator/rule-engine/src/bin/Debug/netcoreapp2.2/src.dll
+/Users/ninjafx/Dev/expression-evaluator/rule-engine/src/bin/Debug/netcoreapp2.2/src.pdb
+/Users/ninjafx/Dev/expression-evaluator/rule-engine/src/obj/Debug/netcoreapp2.2/src.csprojAssemblyReference.cache
+/Users/ninjafx/Dev/expression-evaluator/rule-engine/src/obj/Debug/netcoreapp2.2/src.csproj.CoreCompileInputs.cache
+/Users/ninjafx/Dev/expression-evaluator/rule-engine/src/obj/Debug/netcoreapp2.2/src.RazorAssemblyInfo.cache
+/Users/ninjafx/Dev/expression-evaluator/rule-engine/src/obj/Debug/netcoreapp2.2/src.RazorAssemblyInfo.cs
+/Users/ninjafx/Dev/expression-evaluator/rule-engine/src/obj/Debug/netcoreapp2.2/src.AssemblyInfoInputs.cache
+/Users/ninjafx/Dev/expression-evaluator/rule-engine/src/obj/Debug/netcoreapp2.2/src.AssemblyInfo.cs
+/Users/ninjafx/Dev/expression-evaluator/rule-engine/src/obj/Debug/netcoreapp2.2/src.RazorTargetAssemblyInfo.cache
+/Users/ninjafx/Dev/expression-evaluator/rule-engine/src/obj/Debug/netcoreapp2.2/src.dll
+/Users/ninjafx/Dev/expression-evaluator/rule-engine/src/obj/Debug/netcoreapp2.2/src.pdb
