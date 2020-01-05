@@ -7,6 +7,23 @@ namespace src.Controllers
     [ApiController]
     public class ValuesController : ControllerBase
     {
+        // Get api/values/
+        [HttpGet]
+        public ActionResult Eval(){
+            var engine = new Engine.RuleEngine();
+            var result = engine.Execute(new ExpressionRequest()
+            {
+                Context = "customer",
+                Payload = "{\"Name\": \"Moses\",\"Age\": 17,\"Gender\": \"E\"}"
+            });
+            
+            return Ok(new
+            {
+                MessageBody = result.Reason,
+                Result = result.IsThreeD
+            });
+        }
+
         // POST api/values/
         [HttpPost]
         public ActionResult Eval([FromBody] ExpressionRequest request){
